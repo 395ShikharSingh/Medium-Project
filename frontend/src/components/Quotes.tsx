@@ -3,7 +3,7 @@ export const Qoute= () => {
         <div className="flex justify-center">
             <div className="max-w-lg ">
                 <div className=" text-3xl font-bold">
-                    "The Costmer supprt I recieved waas expentional. The supprt team went above and beyound to address my concern"
+                    So many books, so little time.
                 </div>
 
                 <div className="text-xl max-w-md font-semibold mt-2">
